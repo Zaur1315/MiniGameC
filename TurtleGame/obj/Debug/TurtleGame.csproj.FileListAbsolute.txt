@@ -1,0 +1,7 @@
+c:\users\zaur.guseynzade\documents\visual studio 2015\Projects\TurtleGame\TurtleGame\bin\Debug\TurtleGame.exe.config
+c:\users\zaur.guseynzade\documents\visual studio 2015\Projects\TurtleGame\TurtleGame\bin\Debug\TurtleGame.exe
+c:\users\zaur.guseynzade\documents\visual studio 2015\Projects\TurtleGame\TurtleGame\bin\Debug\TurtleGame.pdb
+c:\users\zaur.guseynzade\documents\visual studio 2015\Projects\TurtleGame\TurtleGame\obj\Debug\TurtleGame.exe
+c:\users\zaur.guseynzade\documents\visual studio 2015\Projects\TurtleGame\TurtleGame\obj\Debug\TurtleGame.pdb
+c:\users\zaur.guseynzade\documents\visual studio 2015\Projects\TurtleGame\TurtleGame\bin\Debug\SmallBasicLibrary.dll
+c:\users\zaur.guseynzade\documents\visual studio 2015\Projects\TurtleGame\TurtleGame\bin\Debug\SmallBasicLibrary.xml
